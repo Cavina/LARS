@@ -109,7 +109,8 @@ A balanced combination of soluble and insoluble fiber, along with symptom manage
 
 ## Phase 1 Diet:
 ### Breakfast:
-- Hot water, tea/black coffee  
+- Hot water, tea/black coffee
+- Athletic Greens
 - 3 Psyllium husk capsules (500 mg each)  
 - 2 digestive enzymes  
 - Eggs, sausage, gluten-free toast, avocado, sauerkraut  
