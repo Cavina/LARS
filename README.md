@@ -69,7 +69,7 @@ To find the optimal dosage, I gradually increased my intake, noting the effects 
 
 The only way to retrain your gut to digest fiber is by eating more of it, which initially exacerbates symptoms. Imodium helped by slowing digestion, giving my body time to process fiber. Simethicone was also useful in managing bloating.
 
-I started by taking one Imodium with a low-fiber meal and gradually introduced higher-fiber foods, such as oatmeal, nuts, and leafy greens. When constipation occurred, I paused the Imodium but maintained the high-fiber diet.
+I started by taking one Imodium with a low-fiber meal and gradually increased the Imodium dosage to 1 per meal while introducing higher-fiber foods, such as oatmeal, nuts, and leafy greens. When constipation occurred, I paused the Imodium but maintained the high-fiber diet. I would then resume the sequence once my body felt good again.
 
 ### Cycle:
 1. Introduce fiber slowly, paired with Imodium.  
