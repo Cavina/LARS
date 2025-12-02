@@ -6,7 +6,7 @@ If you are reading this guide, it likely means you or someone you care about has
 
 # How to Use This Guide
 
-This guide is based on my personal experience recovering from Stage 1 rectal cancer. After the removal of my rectum and a large portion of my sigmoid colon, I navigated recovery without radiation or chemotherapy but did have a temporary ileostomy bag for three months. Following surgery, I dedicated a year to experimenting with diets, foods, and strategies to manage my symptoms effectively. 
+This guide is the "mini-version" of my report based on my personal experience recovering from Stage 1 rectal cancer. After the removal of my rectum and a large portion of my sigmoid colon, I navigated recovery without radiation or chemotherapy but did have a temporary ileostomy bag for three months. Following surgery, I dedicated a year to experimenting with diets, foods, and strategies to manage my symptoms effectively. The full 20-page document is complete after 2 years of trials and is available to download as a PDF here on github.
 
 I spent the majority of the year in Phase 1. I would develop a strategy to go beyond it, but it would always fail. 
 The insights in this guide reflect what worked for me, but every person’s body, microbiome, and experience with LARS (Low Anterior Resection Syndrome) are unique. Think of this as a resource for inspiration rather than a strict plan. I am not a doctor, and this guide is not a replacement for medical advice. It is a compilation of strategies to help you rebuild your ability to digest fiber and regain control of your symptoms.
